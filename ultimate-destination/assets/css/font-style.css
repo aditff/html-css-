@@ -1,0 +1,17 @@
+/* 1. gaya huruf roboto reguler */
+.roboto-reguler {
+  font-family: "Roboto", "sans-serif";
+  font-weight: 400;
+}
+
+/* 2. gaya huruf roboto bold */
+.roboto-bold {
+  font-family: "Roboto", "sans-serif";
+  font-weight: 700;
+}
+
+/* 3. gaya huruf playball (dekoratif) */
+.playball-reguler {
+  font-family: "Playball", "sans-serif";
+  font-weight: 400;
+}
